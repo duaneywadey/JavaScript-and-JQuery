@@ -2,12 +2,12 @@
   "events": [
     {
       "location": "San Francisco, CA",
-      "date": "May 1",
+      "date": "May 10000",
       "map": "img/map-ca.png"
     },
     {
       "location": "Austin, TX",
-      "date": "May 15",
+      "date": "May 15000",
       "map": "img/map-tx.png"
     },
     {

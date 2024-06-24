@@ -11,5 +11,5 @@ xhr.onload = function() {                       // When response has loaded
   }
 };
 
-xhr.open('GET', 'data/data.html', true);        // Prepare the request
+xhr.open('GET', 'data/new-data.html', true);        // Prepare the request
 xhr.send(null);                                 // Send the request
